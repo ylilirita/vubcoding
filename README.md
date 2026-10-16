@@ -1,1 +1,1 @@
-# vibcoding
+# vibe coding
